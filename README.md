@@ -24,7 +24,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/nutriscan-ai.git
+git clone https://github.com/VarunShreyam/nutriscan-ai.git
 cd nutriscan-ai
 ```
 
@@ -73,4 +73,4 @@ MIT — free to use and modify.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)
+Made with ❤️ by Shreyam
